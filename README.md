@@ -19,7 +19,7 @@ Ta bort feedback (DELETE)
 Tester
 Testat via Swagger och publicerat på Azure.
 
-Screenshots
+📸 Screenshots
 Swagger-gränssnittet på Azure:
 
 
