@@ -20,3 +20,26 @@ Jag har utvecklat följande del i projektet:
 ## 📸 Screenshots
 
 Bilder på Swagger-gränssnittet och API-koden bifogas separat.
+
+
+
+---
+
+## 📸 Screenshots
+
+### 1. Min Swagger-sida på Azure
+![Swagger på Azure](![4](https://github.com/user-attachments/assets/e5c44e67-2629-4cce-9ae7-52e1380ea915)
+)
+
+### 2. Min kod i Visual Studio
+**Hämta all och en specifik feedback**
+![Kod - GetFeedbacks och GetFeedback](![1](https://github.com/user-attachments/assets/53cd13ce-984e-4401-8529-1761a4122a88)
+)
+
+**Uppdatera feedback**
+![Kod - PutFeedback](![2](https://github.com/user-attachments/assets/cfa15957-b9ba-48b6-8da7-bee5c7396cc7)
+)
+
+**Skapa och ta bort feedback**
+![Kod - PostFeedback och DeleteFeedback](![3](https://github.com/user-attachments/assets/58f87aba-0f77-476d-9a16-ff04065fdace)
+)
