@@ -1,26 +1,22 @@
-Min individuella del
+# Min individuella del
+
 Jag har utvecklat följande del i projektet:
 
-FeedbackService: API för att hantera feedback (GET, POST, PUT, DELETE)
+- **FeedbackService**: API för att hantera feedback (GET, POST, PUT, DELETE)
+- **Publicerat på Azure**: [FeedbackService Swagger](https://feedbackservice-h7f2dqh5bufkcsac.northeurope-01.azurewebsites.net/swagger/index.html)
+- **Kod på GitHub**: [Mitt repo på GitHub](https://github.com/Younes-nackademin/FeedbackService)
 
-Publicerat på Azure: FeedbackService Swagger
+## Funktioner
 
-Kod på GitHub: Mitt repo på GitHub
+- Skapa feedback (POST)
+- Läsa feedback (GET)
+- Uppdatera feedback (PUT)
+- Ta bort feedback (DELETE)
 
-Funktioner
-Skapa feedback (POST)
+## Tester
 
-Läsa feedback (GET)
+- Testat via **Swagger** och **publicerat på Azure**.
 
-Uppdatera feedback (PUT)
+## 📸 Screenshots
 
-Ta bort feedback (DELETE)
-
-Tester
-Testat via Swagger och publicerat på Azure.
-
-📸 Screenshots
-Swagger-gränssnittet på Azure:
-
-
-Exempel på API-kod (Controller):
+Bilder på Swagger-gränssnittet och API-koden bifogas separat.
