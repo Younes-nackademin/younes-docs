@@ -17,13 +17,6 @@ Jag har utvecklat följande del i projektet:
 
 - Testat via **Swagger** och **publicerat på Azure**.
 
-## 📸 Screenshots
-
-Bilder på Swagger-gränssnittet och API-koden bifogas separat.
-
-
-
----
 
 ## 📸 Screenshots
 
@@ -43,3 +36,5 @@ Bilder på Swagger-gränssnittet och API-koden bifogas separat.
 **Skapa och ta bort feedback**
 ![Kod - PostFeedback och DeleteFeedback](![3](https://github.com/user-attachments/assets/58f87aba-0f77-476d-9a16-ff04065fdace)
 )
+
+---
