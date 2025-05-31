@@ -11,4 +11,4 @@ I grupprojektet har jag utvecklat Feedback-sektionen i webbapplikationen Ventixe
 
 Här är min implementation av Feedback-komponenten i React:
 
-![Min kod](images/2.png)
+![Min kod](images/png.2.png)
