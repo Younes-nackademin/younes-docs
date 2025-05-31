@@ -33,6 +33,7 @@ Jag har utvecklat följande del i projektet:
 **Skapa och ta bort feedback**  
 ![Kod - PostFeedback och DeleteFeedback](images/3.png)
 
-Sammanfattning
+
+Sammanfattning:
 
 I detta projekt har jag utvecklat ett API, FeedbackService, med ASP.NET Core och SQLite. API:et hanterar feedback-data och är publicerat på Azure med full CRUD-funktionalitet, testad via Swagger.
