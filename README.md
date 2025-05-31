@@ -17,7 +17,7 @@ Jag har utvecklat följande del i projektet:
 
 - Testat via **Swagger** och **publicerat på Azure**.
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Min Swagger-sida på Azure
 ![Swagger på Azure](images/4.png)
