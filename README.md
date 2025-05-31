@@ -21,7 +21,7 @@ Jag har utvecklat följande del i projektet:
 ## 📸 Screenshots
 
 ### 1. Min Swagger-sida på Azure
-![Swagger på Azure](![4](![1](https://github.com/user-attachments/assets/4d7e0b25-3a02-471a-a35d-5398b7b8b7fa)
+![Swagger på Azure](![4](![1](images/1.png)
 )
 
 ### 2. Min kod i Visual Studio
