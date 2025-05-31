@@ -20,15 +20,15 @@ Jag har utvecklat följande del i projektet:
 ## 📸 Screenshots
 
 ### 1. Min Swagger-sida på Azure
-![Swagger på Azure](images/1.png)
+![Swagger på Azure](images/4.png)
 
 ### 2. Min kod i Visual Studio
 
 **Hämta all och en specifik feedback**  
-![Kod - GetFeedbacks och GetFeedback](images/2.png)
+![Kod - GetFeedbacks och GetFeedback](images/1.png)
 
 **Uppdatera feedback**  
-![Kod - PutFeedback](images/3.png)
+![Kod - PutFeedback](images/2.png)
 
 **Skapa och ta bort feedback**  
-![Kod - PostFeedback och DeleteFeedback](images/4.png)
+![Kod - PostFeedback och DeleteFeedback](images/3.png)
