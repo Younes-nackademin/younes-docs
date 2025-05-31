@@ -17,24 +17,18 @@ Jag har utvecklat följande del i projektet:
 
 - Testat via **Swagger** och **publicerat på Azure**.
 
-
 ## 📸 Screenshots
 
 ### 1. Min Swagger-sida på Azure
-![Swagger på Azure](![4](![1](images/1.png)
-)
+![Swagger på Azure](images/1.png)
 
 ### 2. Min kod i Visual Studio
-**Hämta all och en specifik feedback**
-![Kod - GetFeedbacks och GetFeedback](![1](Image/2.png)
-)
 
-**Uppdatera feedback**
-![Kod - PutFeedback](![2](https://github.com/user-attachments/assets/cfa15957-b9ba-48b6-8da7-bee5c7396cc7)
-)
+**Hämta all och en specifik feedback**  
+![Kod - GetFeedbacks och GetFeedback](images/2.png)
 
-**Skapa och ta bort feedback**
-![Kod - PostFeedback och DeleteFeedback](![3](https://github.com/user-attachments/assets/58f87aba-0f77-476d-9a16-ff04065fdace)
-)
+**Uppdatera feedback**  
+![Kod - PutFeedback](images/3.png)
 
----
+**Skapa och ta bort feedback**  
+![Kod - PostFeedback och DeleteFeedback](images/4.png)
