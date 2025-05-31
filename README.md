@@ -1,7 +1,5 @@
 ### Sammanfattning (Grupparbete)
-
-I grupprojektet har jag utvecklat Feedback-sektionen i webbapplikationen Ventixe. Användarnas feedback visas på en egen sida i dashboarden där varje feedback är tydligt presenterad med användarnamn och plats. Fokus har varit på en ren och lättläst design, och integration med övriga delar av dashboarden.
-
+I grupprojektet har jag ansvarat för utvecklingen av Feedback-sektionen i webbapplikationen Ventixe. På en dedikerad sida i dashboarden visas användarnas feedback, tydligt strukturerad med namn och plats. Mitt fokus har legat på att skapa en ren, lättläst design och säkerställa en sömlös integration med applikationens övriga komponenter.
 
 ### Resultat - Feedback-sidan
 
