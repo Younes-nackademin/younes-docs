@@ -26,7 +26,7 @@ Jag har utvecklat följande del i projektet:
 
 ### 2. Min kod i Visual Studio
 **Hämta all och en specifik feedback**
-![Kod - GetFeedbacks och GetFeedback](![1](https://github.com/user-attachments/assets/53cd13ce-984e-4401-8529-1761a4122a88)
+![Kod - GetFeedbacks och GetFeedback](![1](Image/2.png)
 )
 
 **Uppdatera feedback**
